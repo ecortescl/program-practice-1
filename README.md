@@ -1,4 +1,4 @@
-# 📚 Programa Prácticas Fullstack Desarrollo de software
+# 📚 Programa Prácticas Fullstack Desarrollo de software 2024
 
 ---
 
@@ -137,11 +137,12 @@ Desarrolla una aplicación web donde instructores puedan crear cursos y estudian
 
 ---
 
-# 📆 Planificación del Proyecto 
+# 📆 Planificación del Proyecto
 
 **Mes 1:**
 
 - **Semana 1-2:**
+
   - 🛠️ **Configuración del entorno de desarrollo**: instalación de herramientas y creación de repositorios.
   - 📝 **Definición de requisitos**: análisis detallado de las funcionalidades.
   - 🗃️ **Diseño de la base de datos**: esquema inicial y modelos de datos.
@@ -155,6 +156,7 @@ Desarrolla una aplicación web donde instructores puedan crear cursos y estudian
 **Mes 2:**
 
 - **Semana 5-6:**
+
   - 🔄 **Desarrollo de funcionalidades principales en backend**: APIs para las operaciones clave.
   - 🖥️ **Implementación de componentes y vistas en frontend**: formularios, listas, detalles.
   - 🔗 **Integración de frontend y backend**: pruebas de comunicación y flujo de datos.
@@ -167,6 +169,7 @@ Desarrolla una aplicación web donde instructores puedan crear cursos y estudian
 **Mes 3:**
 
 - **Semana 9-10:**
+
   - ⚙️ **Optimización de rendimiento**: mejora de consultas y carga de recursos.
   - 🛡️ **Implementación de seguridad**: validación de datos y protección contra ataques comunes.
   - 📖 **Documentación del código**: comentarios y guías de uso.
