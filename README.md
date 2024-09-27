@@ -21,7 +21,7 @@ Desarrolla una aplicación web que permita a equipos de trabajo gestionar proyec
 
 **Tecnologías:**
 
-- **Frontend**: Vue.js, reat, next, nuxt
+- **Frontend**: Vue.js, react.js, next, nuxt
 - **Backend**: Laravel, node, nest, express
 - **Base de Datos**: MySQL, postgres, mongodb
 - **Tiempo Real**: Node.js y Socket.io
@@ -48,7 +48,7 @@ Crea una plataforma de comercio electrónico donde pequeños comerciantes puedan
 
 **Tecnologías:**
 
-- **Frontend**: Vue.js, reat, next, nuxt
+- **Frontend**: Vue.js, react.js, next, nuxt
 - **Backend**: Laravel, node, nest, express
 - **Base de Datos**: MySQL, postgres, mongodb
 - **Tiempo Real**: Node.js y Socket.io
@@ -75,7 +75,7 @@ Desarrolla una aplicación web que permita a los usuarios reservar citas con pro
 
 **Tecnologías:**
 
-- **Frontend**: Vue.js, reat, next, nuxt
+- **Frontend**: Vue.js, react.js, next, nuxt
 - **Backend**: Laravel, node, nest, express
 - **Base de Datos**: MySQL, postgres, mongodb
 - **Tiempo Real**: Node.js y Socket.io
@@ -102,7 +102,7 @@ Crea una plataforma donde organizadores puedan publicar eventos y los usuarios p
 
 **Tecnologías:**
 
-- **Frontend**: Vue.js, reat, next, nuxt
+- **Frontend**: Vue.js, react.js, next, nuxt
 - **Backend**: Laravel, node, nest, express
 - **Base de Datos**: MySQL, postgres, mongodb
 - **Tiempo Real**: Node.js y Socket.io
@@ -129,7 +129,7 @@ Desarrolla una aplicación web donde instructores puedan crear cursos y estudian
 
 **Tecnologías:**
 
-- **Frontend**: Vue.js, reat, next, nuxt
+- **Frontend**: Vue.js, react.js, next, nuxt
 - **Backend**: Laravel, node, nest, express
 - **Base de Datos**: MySQL, postgres, mongodb
 - **Tiempo Real**: Node.js y Socket.io
